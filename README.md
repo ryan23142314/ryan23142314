@@ -1,0 +1,3 @@
+- Hi I'm Ryan Agro and I am developer with expereince in web applications, machine learning, busineness inteligence, and many other areas.
+- My favorite languages to code in are Python, Ruby, Javascript, and SQL
+- Enjoy!
